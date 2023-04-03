@@ -13,10 +13,12 @@ On the other hand, even though the CMIE report starts with a strong positive sen
 
 Here are the word clouds for both these reports:  
 
-CMIE 
+a. CMIE:  
+
 <img src="/Plots/cmie_wc.jpg" width=30% height=30%> 
 
-ICRA
+b. ICRA:  
+
 <img src="/Plots/icra_wc.jpg" width=30% height=30%>
 
 For sentence level analysis, we took the event of RBI Governor Urjit Patel’s resignation and the appointment of Shaktikanth Das as the next Governor of RBI. For this purpose, we mined tweets from Twitter on the days of the resignation of the former and the appointment of the latter. Data was cleaned and the sentiment of all the tweets were valued using a English lexicon. 
@@ -25,8 +27,10 @@ The sentiment sums for both the Governors were -390.75 and -204.3 for Urjit Pate
 
 Here are the word clouds for all the tweets by each of the governors:  
 
-Shakthikanth 
-<img src="/Plots/shakthikanth_wc.png" width=30% height=30%> 
+a. Shakthikanth:  
 
-Urjit 
-<img src="/Plots/urjit_wc.png" width=30% height=30%>
+<img src="/Plots/shakthikanth_wc.png" width=50% height=50%> 
+
+b. Urjit:  
+
+<img src="/Plots/urjit_wc.png" width=50% height=50%>
